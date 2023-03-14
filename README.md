@@ -1,5 +1,6 @@
+![](https://static.vecteezy.com/system/resources/previews/003/217/491/original/cyber-hacker-attack-background-skull-free-vector.jpg)
 # 💫 About Me:
-I’m currently learning on TryHackMe and PicoCTF.<br>I’m interested in InfoSec, CTFs and more.<br>I’m wanting to learn more about InfoSec, CTFs, Exploits and GitHub.<br>I have a diploma in Ethical Hacking.
+I’m currently learning on TryHackMe and PicoCTF.<br>I’m interested in InfoSec, CTFs and more.<br>I’m wanting to learn more about InfoSec, CTFs, Exploits and GitHub.<br>I have a diploma in Ethical Hacking.<br>I am also currently working on an AI who I have named`Gizmo` 
 
 
 ## 🌐 Socials:
@@ -11,9 +12,6 @@ I’m currently learning on TryHackMe and PicoCTF.<br>I’m interested in InfoSe
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swiftglitxh&theme=dark&hide_border=false)<br/>
 username=swiftglitxh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=swiftglitxh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
