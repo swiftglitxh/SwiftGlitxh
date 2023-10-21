@@ -1,9 +1,10 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixilart.com%2Fimages%2Fart%2Fa2d9a1b3f80be30.gif&f=1&nofb=1&ipt=c4ed09112e911e9e8dac0668898d019609448f312dc0062dc36812d7877089f4&ipo=images" height=900 alt="hacker gif" style="display: block;margin-left:auto;margin-right:auto;">
 <br><hr/>
- 💫 About Me:
+
+## 💫 About Me:
 I’m currently learning on TryHackMe and PicoCTF.<br>I’m interested in InfoSec, CTFs and more.<br>I’m wanting to learn more about InfoSec, CTFs, Exploits and GitHub.<br>I have a diploma in Ethical Hacking.<br>I am also currently working on an AI who I have named`Gizmo` 
 
- 🛠️ Overview of skills
+## 🛠️ Overview of skills
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="50">
