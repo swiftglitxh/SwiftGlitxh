@@ -1,4 +1,4 @@
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixilart.com%2Fimages%2Fart%2Fa2d9a1b3f80be30.gif&f=1&nofb=1&ipt=c4ed09112e911e9e8dac0668898d019609448f312dc0062dc36812d7877089f4&ipo=images" height=900 alt="hacker gif" style="display: block;margin-left:auto;margin-right:auto;">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixilart.com%2Fimages%2Fart%2Fa2d9a1b3f80be30.gif&f=1&nofb=1&ipt=c4ed09112e911e9e8dac0668898d019609448f312dc0062dc36812d7877089f4&ipo=images" height=500 alt="hacker gif" style="display: block;margin-left:auto;margin-right:auto;">
 <br><hr/>
 
 ## 💫 About Me:
