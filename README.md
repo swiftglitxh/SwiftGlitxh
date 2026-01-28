@@ -1,4 +1,5 @@
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixilart.com%2Fimages%2Fart%2Fa2d9a1b3f80be30.gif&f=1&nofb=1&ipt=c4ed09112e911e9e8dac0668898d019609448f312dc0062dc36812d7877089f4&ipo=images" height=500 alt="hacker gif" style="display: block;margin-left:auto;margin-right:auto;">
+![611565313_1427268945691629_4811116846902505035_n](https://github.com/user-attachments/assets/df874ae0-d255-481f-a36b-556481905430)
+
 <br><hr/>
 
 ## 💫 About Me:
