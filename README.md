@@ -1,4 +1,5 @@
-![611565313_1427268945691629_4811116846902505035_n](https://github.com/user-attachments/assets/df874ae0-d255-481f-a36b-556481905430)
+<img width="1254" height="1254" alt="88d535d9-cc7e-4188-b24e-e2612e2605c6" src="https://github.com/user-attachments/assets/d316f4fd-61b4-4df8-8306-0e0fc7362c1b" />
+
 
 <br><hr/>
 
